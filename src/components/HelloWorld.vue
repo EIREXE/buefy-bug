@@ -5,7 +5,7 @@
         <span>Click me!</span>
         <b-icon icon="menu-down"></b-icon>
       </button>
-      <b-dropdown-item ref="a1b">ction 1</b-dropdown-item>
+      <b-dropdown-item ref="a1b">Action 1</b-dropdown-item>
       <b-dropdown-item>Action 2</b-dropdown-item>
     </b-dropdown>
   </div>
